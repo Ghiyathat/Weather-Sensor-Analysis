@@ -33,4 +33,4 @@ The dataset is stored as a Numpy array with the following dimensions:
 - Numpy
 
 ### Reference
-- [Awibi Medtech](https://www.linkedin.com/company/awibimedtech/?originalSubdomain=ng)
+- [Awibi Medtech Data Science Project](https://www.linkedin.com/company/awibimedtech/?originalSubdomain=ng)
