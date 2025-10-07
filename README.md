@@ -20,7 +20,7 @@ The dataset is stored as a Numpy array with the following dimensions:
    - Sorted temperature readings
    - Average temperature per cities
    - Day with highest temperature in Abuja
-   - City with the highest lowest overall humidity
+   - City with the lowest overall humidity
 - Documented clear City-Day-Measurement mappings
 
 ### Key Concepts Demonstrated
